@@ -28,7 +28,7 @@ For this I chose to delete the rows with missing values. Imputation is not a goo
 
 ## Model Performance
 
-I fit several models to compare performance. Each model was evaluated with K=5 K fold cross validation. Results are as follows:
+I fit several initial models to compare performance. Each model was evaluated with K=5 K fold cross validation. Results are as follows:
 
 * Decision Tree: 0.944
 * Random Forest: 0.969
